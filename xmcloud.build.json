@@ -1,0 +1,14 @@
+{
+  "$schema": "https://xmcloud.sitecore.com/schemas/xmcloud.build.schema.json",
+  "deployItems": {
+    "modules": [
+      "sitecore"
+    ]
+  },
+  "renderingHosts": {
+    "nextjs": {
+      "path": ".",
+      "nodeVersion": "18"
+    }
+  }
+}
